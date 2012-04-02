@@ -1,0 +1,9 @@
+Package: com.rpetrich.upsidedown
+Priority: optional
+Section: System
+Architecture: iphoneos-arm
+Version: 0.9
+Description: April Fools!
+Name: UpsideDown
+Depends: firmware (>= 4.0), mobilesubstrate
+Author: Ryan Petrich <rpetrich+upsidedown@gmail.com>
